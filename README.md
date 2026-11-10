@@ -1,4 +1,8 @@
 # KokoRepo
 This is module 6 from Git & Github Course
-This rebo for educational purpose
+this Rebo bla bla bla  ...
+This rebo intended for educational purpose
 Another changes
+This rebo for educational purpose
+aaaaaaaaaaaa
+dssdsdddssd
